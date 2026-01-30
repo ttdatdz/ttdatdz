@@ -1,5 +1,7 @@
-# 💫 About Me:
-👋 Hi, I’m Tran Tien Dat<br><br>🎓 I’m currently a 4th-year Software Engineering student at UIT – VNU-HCM<br><br>🚀 Focused on Java Backend Development<br><br>🔭 Currently working on<br>Building backend applications with Java, Spring Boot, and relational databases.<br><br>🧠 Interested in<br>Scalable system design, clean architecture, and backend performance.<br><br>🌱 Currently learning<br>Spring Boot, JPA/Hibernate, SQL optimization, and backend fundamentals.<br><br>🎯 Career goal<br>Seeking Java Intern / Fresher opportunities to gain real-world experience and grow as a backend developer.<br><br>📫 Contact me: ttdat260204@gmail.com
+<h1 align="center">👋 Hi, I’m Tran Tien Dat</h1>
+
+## 💫 About Me:
+🎓 I’m currently a 4th-year Software Engineering student at UIT – VNU-HCM<br><br>🚀 Focused on Java Backend Development<br><br>🔭 Currently working on<br>Building backend applications with Java, Spring Boot, and relational databases.<br><br>🧠 Interested in<br>Scalable system design, clean architecture, and backend performance.<br><br>🌱 Currently learning<br>Spring Boot, JPA/Hibernate, SQL optimization, and backend fundamentals.<br><br>🎯 Career goal<br>Seeking Java Intern / Fresher opportunities to gain real-world experience and grow as a backend developer.<br><br>📫 Contact me: ttdat260204@gmail.com
 
 
 ## 🌐 Socials:
